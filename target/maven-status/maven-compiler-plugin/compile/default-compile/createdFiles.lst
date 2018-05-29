@@ -1,0 +1,9 @@
+ua\lviv\iot\Products\Bread.class
+ua\lviv\iot\Products\Sweet.class
+ua\lviv\iot\ProductManager.class
+ua\lviv\iot\Service.class
+ua\lviv\iot\Writer.class
+ua\lviv\iot\enums\Type.class
+ua\lviv\iot\Products\Dairy.class
+ua\lviv\iot\Products\Product.class
+ua\lviv\iot\config\JaxRsConfig.class
